@@ -10,4 +10,7 @@ th{
   .row, .inquiry {
     flex-direction: column;
   }
+  .table{
+    max-width: 100%;
+  }
 }
