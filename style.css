@@ -6,6 +6,29 @@ body{
 th{
   background-color:skyblue;
 }
+3{
+  background-color:limegreen;
+}
+2{
+  background-color:hotpink;
+}
+8{
+  background-color:wheat;
+}
+14{
+  background-color:thistle;
+}
+11{
+  background-color:turquoise
+}
+21{
+  background-color:silver;
+}
+16{
+  background-color:purple;
+}
+
+
 @media@media (max-width:767px) {
   .row, .inquiry {
     flex-direction: column;
