@@ -6,3 +6,8 @@ body{
 th{
   background-color:skyblue;
 }
+@media@media (max-width:767px) {
+  .row, .inquiry {
+    flex-direction: column;
+  }
+}
